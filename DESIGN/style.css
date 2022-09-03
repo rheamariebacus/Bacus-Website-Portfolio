@@ -820,6 +820,11 @@ Portfolio Section
     color: var(--white);
     background-color: var(--main-color);
 }
+.submit-btn span{
+    font-size: 15px;
+    margin-left: 5px;
+    display: none;
+}
 
 
 /* Responsive */
